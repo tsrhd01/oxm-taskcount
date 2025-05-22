@@ -1,5 +1,4 @@
 
-![img](./pic.jpg)
 
 ![Alt text](https://raw.githubusercontent.com/tsrhd01/oxm-taskcount/main/pic.jpg)
 
